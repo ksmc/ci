@@ -13,11 +13,12 @@ That leads us the the three different components of a git project
 * working directory which is a single checkout of one version of the project
 * staging is where files with changes live until they are committed to the .git directory
 
-#### .git Directory
+.git Directory
+
 The .git directory houses metadata (e.g., configs, info) and object database for your project. When you do a:
----
+~~~
 git clone
----
+~~~
 this gets copied from the remote source
 
 #### Working Directory
