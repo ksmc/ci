@@ -15,6 +15,7 @@
   * Version control fundementals
     * Git
     * Git Stages
+    * Rebasing v. Merge
   * Version Control Architecture
     * Repository
     * Branching
