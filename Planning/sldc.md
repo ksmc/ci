@@ -1,4 +1,4 @@
-# Planning for the Software Development Lifecycle
+# Process for implementing change
 
 The software development lifecycle (SLDC) is applicable to all forms of development projects whether that be making a change to a SQL reporting script, fixing a bug, or adding new content to your knowledge base. Each of these requires some form of effort to be expended and change to be made. 
 
@@ -26,6 +26,7 @@ In order to track change, we need a predictable path in which an issue can trave
 |11| Deploy the changes | Closed |
 
 ## Rule #2: Small Batch Sizes
+[Splitting Stories](https://blog.jbrains.ca/permalink/how-youll-probably-learn-to-split-features)
 
 ## Rule #3: Modularity in Design
 
