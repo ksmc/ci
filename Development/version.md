@@ -1,7 +1,7 @@
 # Version Control
 
 ## What is the preferred tool of choice?
-Git. There are are distributed version control systems out there, but git has a much larger adoption and integrates with almost any form of project management software like JIRA.
+Git. There are distributed version control systems out there, but git has a much larger adoption and integrates with almost any form of project management software like JIRA.
 
 ## What is git?
 Git is a database that houses configurations and data (in the form of file snapshots)

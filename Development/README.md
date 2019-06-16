@@ -5,6 +5,8 @@
   * Why TDD?
     * Forcing a developer, data scientest, or data architect to explicitly define what needs to be done 
   * What is TDD?
+  * QA engineer and dev right the test cases together
+  * Outline the process
   * How do you to incorporate this in analysis work?
 * Version Control
   * What is VC and what type of VC should we use?
@@ -41,7 +43,7 @@
 * Code Quality
   * Writing
     * Commenting
-      * Documentation Comments (not suggested)
+      * Documentation Comments
       * Directional Comments 
     * Linting
       * What is Linting? Why should I care?
@@ -49,5 +51,11 @@
       * Source code
   * Review
     * Refactoring
+      * Capturing specific actions that can be taken: Ways to reduce 
     * Peer Reviews
+      * how do you incentize peer reviews?
+      * approve by delivery manager
+      * Identify peer reviewers ahead of time
+    * Unit Test Checklist
+
 

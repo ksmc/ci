@@ -22,11 +22,17 @@
   * Development/Construction
   * Testing
   * Delivery
+* Team Structure
+  * SCRUM master
+  * BA 
+  * 2 developers (per pod)
 * Technical Planning
   * Solution Architecture
     * Modularity in system design -> need perspective on how this is accomplished in analytical-driven projects
-  * Environment Management
+  * Environment Management (move to Deployments)
     * Promoting consistentcy between high and lower-level environments
       * Containerization
-
+    * moving data to lower level environments (using a tool)
+    * no skipping deployment step
+    * configurations and data
  
