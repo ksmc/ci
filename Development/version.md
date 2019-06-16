@@ -15,6 +15,16 @@ User A makes a change and commits it to the shared repository (hosted in Bitbuck
 ![git commic](./assets/git_2x.png)
 
 ## How does Git work?
+Before we jump into installing, initializing, and further using git, it is important to first understand how git manages files. Git uses files states as a way to track where files are at in their lifecycles. 
+
+When a user creates a brand new file in the working directory, the file is not yet being tracked by git. In this case, I have created a file called "git tracking". Below you can see that git tracking is in the "Untracked files" bucket:
+
+![untracked](./assets/untracked.png)
+
+You will also see some other Untracked files. We will talk about one in particular, .gitignore, later in this section. For now, let's keeping rolling with this example and say that we need to start tracking versioning on "git_tracking.text" 
+
+
+
 ### The Three States:
 1. Committed: snapshot/data is safely stored
 2. Modified: changing the file, but not committed the database yet
@@ -39,6 +49,18 @@ this gets copied from the remote source
 The working directory contains files from the .git directory that have been placed on disk for use and modify and then also houses newly added files
 
 #### Staging Area
+The file has been marked as a changed file, bu had not yet been committed to your database yet
+
+### Staged
+The file is marked as modified and will go into your next commit snapshot
+
+~~~
+Before we talk about installing git, I would recommend that we 
+~~~
+
+## Installing Git
+
+
 
 
 Other content to add
