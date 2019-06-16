@@ -29,7 +29,7 @@ You will also see some other Untracked files. We will talk about one in particul
 
 Now, now are file is added to our staged area and will be commited when we decide to do so. But let's say your after a peer review from your colleguae, you have a quick changes to make to the "git_tracking.txt" file.
 
-![changes](./assets/changes_oh_changes/png)
+![changes](./assets/changes_oh_changes.png)
 
 This is looking maybe a little confusing, but stick with it. In most cases, you will make a commit with the new file and likely never run into this, but we want to show you have to navigate this situation. 
 
