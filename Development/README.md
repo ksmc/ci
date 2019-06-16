@@ -11,7 +11,8 @@
 * Version Control
   * What is VC and what type of VC should we use?
     * What is git?
-    * Why should you care?
+    * Where can git live?
+    * The reason you use git
   * Usage/Breakdown by different system components
     * Source Code
     * Database code (stored procedures, views)
